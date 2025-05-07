@@ -1,3 +1,5 @@
+//David, Sarah e, Victor, Felipe Ribeiro
+
 import { StatusBar } from "expo-status-bar";
 import {
   StyleSheet,
