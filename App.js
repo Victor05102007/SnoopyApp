@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     marginTop: 25,
   },
   visao: {
-    flexDirection: "row",
+    flexDirection: "row-reverse",
     width: 300,
     height: 55,
     alignItems: "center",
